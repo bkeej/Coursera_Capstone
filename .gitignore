@@ -1,3 +1,4 @@
+.DS_Store
 .ipynb_checkpoints/
 foursquare_api.ipynb
 k-means.ipynb
